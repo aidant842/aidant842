@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aidant842@gmail.com**
 
-- 📄 Know about my experiences [https://aidan-thorpe-portfolio.s3.amazonaws.com/static/assets/Aidan_Thorpe_Software_Developer.pdf](https://aidan-thorpe-portfolio.s3.eu-west-1.amazonaws.com/static/assets/Aidan_Thorpe_Software_Developer_CV_ATS_August_2021.pdf)
+- 📄 Know about my experiences [Aidan_Thorpe_Software_Developer CV.pdf](https://aidan-thorpe-portfolio.s3.eu-west-1.amazonaws.com/static/assets/Aidan_Thorpe_Software_Developer_CV_ATS_August_2021.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
