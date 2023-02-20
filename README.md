@@ -2,7 +2,7 @@
 <h3 align="center">I'm a full stack software engineer from Co. Mayo, Ireland.</h3>
 <p align="center">I started Code Institute's Fullstack software development course in March of 2020 in which I received a Distinction Grade, which can be found <a href="https://www.credential.net/24f10ef4-61c9-4464-825c-e0d953136364#gs.3gyona">Here</a>.</p>
 
-- 🔭 I’m currently working on [Ecanvasser](https://www.ecanvasser.com/) as a full stack software engineer
+- 🔭 I’m currently working at [Ecanvasser](https://www.ecanvasser.com/) as a full stack software engineer
 
 - 🌱 I’m currently learning the **MERN Stack**
 
