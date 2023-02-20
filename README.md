@@ -1,18 +1,16 @@
 <h1 align="center">Hello there! 👋, My name is Aidan</h1>
-<h3 align="center">I'm a junior software developer from Co. Mayo, Ireland.</h3>
-<p align="center">I started Code Institute's Fullstack software development course in March of 2020 in which I received a Distinction Grade, which can be found <a href="https://www.credential.net/24f10ef4-61c9-4464-825c-e0d953136364#gs.3gyona">Here</a>. I am looking to change my career to software development and am working hard to do so.</p>
+<h3 align="center">I'm a full stack software engineer from Co. Mayo, Ireland.</h3>
+<p align="center">I started Code Institute's Fullstack software development course in March of 2020 in which I received a Distinction Grade, which can be found <a href="https://www.credential.net/24f10ef4-61c9-4464-825c-e0d953136364#gs.3gyona">Here</a>.</p>
 
-- 🔭 I’m currently working on [mymo.ie](https://mymo.ie)
+- 🔭 I’m currently working on [Ecanvasser](https://www.ecanvasser.com/) as a full stack software engineer
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning the **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [http://www.at-development.ie/](http://www.at-development.ie/)
+- 👨‍💻 All of my projects are available here on my GitHub.
 
 - 📫 How to reach me **aidant842@gmail.com**
 
-- 📄 Know about my experiences [Aidan_Thorpe_Software_Developer CV.pdf](https://aidan-thorpe-portfolio.s3.eu-west-1.amazonaws.com/static/assets/Aidan_Thorpe_Software_Developer_CV_ATS_August_2021.pdf)
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/aidan-thorpe-99a8451a5/)  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/aidan-thorpe-99a8451a5/) you can also find an up to date copy of my CV in my featured section on LinkedIn.
 
 
 <h3 align="left">Languages and Tools:</h3>
